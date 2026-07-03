@@ -1,0 +1,17 @@
+# Pulse Fitness & Wellness Care
+
+> A fitness and wellness center in Chennai, India offering personal training, group cardio/HIIT classes, physiotherapy, nutrition coaching, and yoga & recovery sessions.
+
+Pulse Fitness & Wellness Care pairs certified trainers with in-house physiotherapists and nutrition coaches so training and recovery plans are coordinated rather than working against each other.
+
+## Pages
+- [Home](https://pluse-witness.netlify.app/): Overview, highlights, and booking call-to-action.
+- [About](https://pluse-witness.netlify.app/about.html): Mission, values, and coach/therapist team.
+- [Programs](https://pluse-witness.netlify.app/services.html): Strength Training, Cardio & HIIT, Physiotherapy, Nutrition Coaching, Yoga & Recovery, Personal Training.
+- [Gallery](https://pluse-witness.netlify.app/gallery.html): Photos of the training floor, classes, and recovery studio.
+- [Contact](https://pluse-witness.netlify.app/contact.html): Address, phone, hours, and appointment booking form.
+
+## Contact
+- Address: 45 OMR Service Road, Chennai, Tamil Nadu 600096, India
+- Phone: +91 44 9876 5432
+- Email: hello@pulsefitcare.example
